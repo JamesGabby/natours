@@ -1,4 +1,4 @@
-{
+ech{
   "name": "starter",
   "version": "1.0.0",
   "description": "",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JamesGabby/natours/issues"
   },
-  "homepage": "https://github.com/JamesGabby/natours#readme"
+  "homepage": "https://github.com/JamesGabby/natours#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
 }
